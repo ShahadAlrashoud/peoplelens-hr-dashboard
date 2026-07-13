@@ -1,40 +1,53 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PeopleLens
 
-## Getting Started
+## HR Analytics Platform
 
-First, run the development server:
+PeopleLens is a SaaS-style HR analytics dashboard designed to help organizations visualize workforce insights, track employee performance, and support data-driven HR decisions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The project simulates an HR management platform with interactive dashboards, employee analytics, reports, and account management features.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Dashboard
+- Overview of workforce metrics
+- Employee count tracking
+- Attendance insights
+- Performance summaries
+- Promotion candidate tracking
 
-## Learn More
+### Employee Management
+- View employee records
+- Browse workforce information
+- Track employee performance data
 
-To learn more about Next.js, take a look at the following resources:
+### Analytics
+- Department performance visualization
+- Attendance trends
+- Employee distribution charts
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Reports
+- HR statistics overview
+- Report generation interface
+- Workforce insights
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### User Experience
+- Interactive sidebar navigation
+- Admin profile menu
+- Settings panel
+- Privacy, Help Center, and Support sections
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# peoplelens-hr-dashboard
->>>>>>> b18d9f35b7bebc6653f2dc6c2cc6b6d98bd60377
+- **Next.js** — React framework for production applications
+- **TypeScript** — Type-safe development
+- **Tailwind CSS** — Responsive UI styling
+- **Recharts** — Data visualization
+- **Lucide React** — Interface icons
+
+
+
+## 🏗️ Project Structure
