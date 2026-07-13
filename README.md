@@ -1,4 +1,5 @@
-<img src="PeopleLens-logo.png" width="22" align="center" /> # PeopleLens
+<img src="PeopleLens-logo.png" width="22" align="center" /> 
+# PeopleLens
 
 ## HR Analytics Platform
 
