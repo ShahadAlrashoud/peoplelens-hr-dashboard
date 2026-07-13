@@ -42,7 +42,18 @@ The project simulates an HR management platform with interactive dashboards, emp
 - Privacy, Help Center, and Support sections
 
 ---
+<h2>Screenshots</h2>
 
+<h3>Dashboard</h3>
+<img src="PeopleLens-dashboard.png" width="850">
+
+<h3>Analytics</h3>
+<img src="Analytics.png" width="850">
+
+<h3>Reports</h3>
+<img src="Reports.png" width="850">
+
+---
 ## Built With
 
 - **Next.js** — React framework for production applications
