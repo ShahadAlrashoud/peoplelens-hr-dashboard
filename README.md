@@ -51,25 +51,6 @@ The project simulates an HR management platform with interactive dashboards, emp
 - **Recharts** — Data visualization
 - **Lucide React** — Interface icons
 
-
-
-## Project Structure
-src/
-├── app/
-│ └── page.tsx
-│
-├── components/
-│ ├── Header.tsx
-│ ├── Sidebar.tsx
-│ ├── Charts.tsx
-│ ├── EmployeeTable.tsx
-│ ├── SettingsPanel.tsx
-│ └── ReportGenerator.tsx
-│
-└── data/
-└── employees.ts
-
-
 ---
 
 ## Purpose
