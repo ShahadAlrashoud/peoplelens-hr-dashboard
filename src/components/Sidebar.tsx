@@ -56,7 +56,7 @@ const [profileOpen, setProfileOpen] = useState(false);
     <div className="flex items-center gap-3">
 
   <Image
-    src="public/PeopleLens-logo.png"
+    src="/PeopleLens-logo.png"
     alt="PeopleLens Logo"
     width={40}
     height={40}
