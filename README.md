@@ -50,4 +50,41 @@ The project simulates an HR management platform with interactive dashboards, emp
 
 
 
-## 🏗️ Project Structure
+## Project Structure
+src/
+├── app/
+│ └── page.tsx
+│
+├── components/
+│ ├── Header.tsx
+│ ├── Sidebar.tsx
+│ ├── Charts.tsx
+│ ├── EmployeeTable.tsx
+│ ├── SettingsPanel.tsx
+│ └── ReportGenerator.tsx
+│
+└── data/
+└── employees.ts
+
+
+---
+
+## Purpose
+
+PeopleLens was created as a portfolio project to demonstrate skills in:
+
+- Frontend application development
+- Dashboard and UI design
+- Data visualization
+- Information systems concepts
+- HR technology solutions
+
+---
+
+## Future Improvements
+
+- Real authentication system
+- Database integration
+- Role-based access control
+- Advanced HR reports
+- AI-powered employee insights
